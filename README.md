@@ -1,6 +1,6 @@
 # Youtube clone Using React Js and Material UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live [Demo](https://you-tube-clone-site.netlify.app/).
 
 ## Available Scripts
 
